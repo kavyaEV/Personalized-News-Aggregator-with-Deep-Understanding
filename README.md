@@ -51,8 +51,4 @@ The application personalizes the news feed by filtering and presenting articles 
 
 The summarized articles, along with their sentiment scores and other metadata, are stored in a pandas DataFrame. The data can be exported to a CSV file for further analysis or sharing.
 
-## Installation
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/personalized-news-aggregator.git
