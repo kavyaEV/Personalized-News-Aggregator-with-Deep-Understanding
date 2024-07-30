@@ -51,4 +51,6 @@ The application personalizes the news feed by filtering and presenting articles 
 
 The summarized articles, along with their sentiment scores and other metadata, are stored in a pandas DataFrame. The data can be exported to a CSV file for further analysis or sharing.
 
+## Skills Developed
 
+Through the development of the Personalized News Aggregator, I have gained valuable experience in several key areas of artificial intelligence and machine learning. This project has honed my skills in Natural Language Processing (NLP), including text summarization using transformer models and sentiment analysis with TextBlob. I've also gained practical experience in data handling and manipulation using pandas, API integration, and Python programming. Additionally, I have developed expertise in end-to-end project execution, from data collection and preprocessing to model implementation and result interpretation. These skills are essential for AI and machine learning roles, showcasing my ability to work with real-world data and build AI-powered solutions.
